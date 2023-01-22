@@ -7,11 +7,10 @@ Crypto Tracker Flutter project 🚀.
 ###### Download the project from Repo
 
 ```
-git clone https://github.com/AgnelSelvan/Flutter-UI-Template.git
+git clone https://github.com/MuhammadBilalAkbar/flutter_crypto_tracker_ui.git
 ```
 
 ```dart
-cd crypto_tracker
 flutter pub get
 flutter run
 ```

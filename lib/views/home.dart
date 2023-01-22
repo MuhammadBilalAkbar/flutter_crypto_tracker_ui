@@ -1,6 +1,6 @@
-import 'package:flutter_crypto_tracker_ui/views/home/dashboard.dart';
-import 'package:flutter_crypto_tracker_ui/views/home/market.dart';
-import 'package:flutter_crypto_tracker_ui/views/home/portfolio.dart';
+import '../views/home/dashboard.dart';
+import '../views/home/market.dart';
+import '../views/home/portfolio.dart';
 
 import '../core/res/color.dart';
 import 'package:flutter/material.dart';
